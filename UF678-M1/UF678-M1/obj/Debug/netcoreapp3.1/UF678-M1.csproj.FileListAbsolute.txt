@@ -1,0 +1,12 @@
+C:\Users\wendy\source\repos\UF678-M1\UF678-M1\bin\Debug\netcoreapp3.1\UF678-M1.exe
+C:\Users\wendy\source\repos\UF678-M1\UF678-M1\bin\Debug\netcoreapp3.1\UF678-M1.deps.json
+C:\Users\wendy\source\repos\UF678-M1\UF678-M1\bin\Debug\netcoreapp3.1\UF678-M1.runtimeconfig.json
+C:\Users\wendy\source\repos\UF678-M1\UF678-M1\bin\Debug\netcoreapp3.1\UF678-M1.runtimeconfig.dev.json
+C:\Users\wendy\source\repos\UF678-M1\UF678-M1\bin\Debug\netcoreapp3.1\UF678-M1.dll
+C:\Users\wendy\source\repos\UF678-M1\UF678-M1\bin\Debug\netcoreapp3.1\UF678-M1.pdb
+C:\Users\wendy\source\repos\UF678-M1\UF678-M1\obj\Debug\netcoreapp3.1\UF678-M1.AssemblyInfoInputs.cache
+C:\Users\wendy\source\repos\UF678-M1\UF678-M1\obj\Debug\netcoreapp3.1\UF678-M1.AssemblyInfo.cs
+C:\Users\wendy\source\repos\UF678-M1\UF678-M1\obj\Debug\netcoreapp3.1\UF678-M1.csproj.CoreCompileInputs.cache
+C:\Users\wendy\source\repos\UF678-M1\UF678-M1\obj\Debug\netcoreapp3.1\UF678-M1.dll
+C:\Users\wendy\source\repos\UF678-M1\UF678-M1\obj\Debug\netcoreapp3.1\UF678-M1.pdb
+C:\Users\wendy\source\repos\UF678-M1\UF678-M1\obj\Debug\netcoreapp3.1\UF678-M1.genruntimeconfig.cache

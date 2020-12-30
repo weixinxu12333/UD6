@@ -13,6 +13,9 @@ namespace UF678_M2
 
             Milstone2 m2 = new Milstone2();
             m2.Inicio();
+
+            Milstone3 m3 = new Milstone3();
+            m3.Inicio();
         }
     }
 }

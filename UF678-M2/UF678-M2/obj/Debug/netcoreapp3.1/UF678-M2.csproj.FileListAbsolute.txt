@@ -1,0 +1,13 @@
+C:\Users\wendy\Documents\GitHub\UD6\UF678-M2\UF678-M2\bin\Debug\netcoreapp3.1\UF678-M2.exe
+C:\Users\wendy\Documents\GitHub\UD6\UF678-M2\UF678-M2\bin\Debug\netcoreapp3.1\UF678-M2.deps.json
+C:\Users\wendy\Documents\GitHub\UD6\UF678-M2\UF678-M2\bin\Debug\netcoreapp3.1\UF678-M2.runtimeconfig.json
+C:\Users\wendy\Documents\GitHub\UD6\UF678-M2\UF678-M2\bin\Debug\netcoreapp3.1\UF678-M2.runtimeconfig.dev.json
+C:\Users\wendy\Documents\GitHub\UD6\UF678-M2\UF678-M2\bin\Debug\netcoreapp3.1\UF678-M2.dll
+C:\Users\wendy\Documents\GitHub\UD6\UF678-M2\UF678-M2\bin\Debug\netcoreapp3.1\UF678-M2.pdb
+C:\Users\wendy\Documents\GitHub\UD6\UF678-M2\UF678-M2\obj\Debug\netcoreapp3.1\UF678-M2.csprojAssemblyReference.cache
+C:\Users\wendy\Documents\GitHub\UD6\UF678-M2\UF678-M2\obj\Debug\netcoreapp3.1\UF678-M2.AssemblyInfoInputs.cache
+C:\Users\wendy\Documents\GitHub\UD6\UF678-M2\UF678-M2\obj\Debug\netcoreapp3.1\UF678-M2.AssemblyInfo.cs
+C:\Users\wendy\Documents\GitHub\UD6\UF678-M2\UF678-M2\obj\Debug\netcoreapp3.1\UF678-M2.csproj.CoreCompileInputs.cache
+C:\Users\wendy\Documents\GitHub\UD6\UF678-M2\UF678-M2\obj\Debug\netcoreapp3.1\UF678-M2.dll
+C:\Users\wendy\Documents\GitHub\UD6\UF678-M2\UF678-M2\obj\Debug\netcoreapp3.1\UF678-M2.pdb
+C:\Users\wendy\Documents\GitHub\UD6\UF678-M2\UF678-M2\obj\Debug\netcoreapp3.1\UF678-M2.genruntimeconfig.cache

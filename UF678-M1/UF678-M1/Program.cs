@@ -13,6 +13,10 @@ namespace UF678_M1
             Console.WriteLine("Milstone2");
             Milstone2 m2 = new Milstone2();
             m2.inicio();
+
+            Console.WriteLine("Milstone3");
+            Milstone3 m3 = new Milstone3();
+            m3.inicio();
         }
     }
 }

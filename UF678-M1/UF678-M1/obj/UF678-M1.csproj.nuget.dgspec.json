@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wendy\\source\\repos\\UF678-M1\\UF678-M1\\UF678-M1.csproj": {}
+    "C:\\Users\\wendy\\Documents\\GitHub\\UD6\\UF678-M1\\UF678-M1\\UF678-M1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wendy\\source\\repos\\UF678-M1\\UF678-M1\\UF678-M1.csproj": {
+    "C:\\Users\\wendy\\Documents\\GitHub\\UD6\\UF678-M1\\UF678-M1\\UF678-M1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wendy\\source\\repos\\UF678-M1\\UF678-M1\\UF678-M1.csproj",
+        "projectUniqueName": "C:\\Users\\wendy\\Documents\\GitHub\\UD6\\UF678-M1\\UF678-M1\\UF678-M1.csproj",
         "projectName": "UF678-M1",
-        "projectPath": "C:\\Users\\wendy\\source\\repos\\UF678-M1\\UF678-M1\\UF678-M1.csproj",
+        "projectPath": "C:\\Users\\wendy\\Documents\\GitHub\\UD6\\UF678-M1\\UF678-M1\\UF678-M1.csproj",
         "packagesPath": "C:\\Users\\wendy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wendy\\source\\repos\\UF678-M1\\UF678-M1\\obj\\",
+        "outputPath": "C:\\Users\\wendy\\Documents\\GitHub\\UD6\\UF678-M1\\UF678-M1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wendy\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -22,6 +22,11 @@ namespace UF678_M3
             ImprimirNomCiutat(c4);
             ImprimirNomCiutat(c5);
             ImprimirNomCiutat(c6);
+
+            string[] arrayCiutats = { c1, c2, c3, c4, c5, c6};
+            Array.Sort(arrayCiutats);
+            ImprimirArray(arrayCiutats);
+
         }
 
         public static string EscriuNomCiutat()
@@ -34,6 +39,14 @@ namespace UF678_M3
         public static void ImprimirNomCiutat(string ciutat)
         {
             Console.WriteLine(ciutat);
+        }
+
+        public static void ImprimirArray(string[] array)
+        {
+            foreach (var i in array)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 

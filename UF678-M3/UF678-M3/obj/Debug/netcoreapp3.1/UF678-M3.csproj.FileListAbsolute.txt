@@ -11,3 +11,16 @@ C:\Users\wendy\source\repos\UF678-M3\UF678-M3\obj\Debug\netcoreapp3.1\UF678-M3.c
 C:\Users\wendy\source\repos\UF678-M3\UF678-M3\obj\Debug\netcoreapp3.1\UF678-M3.dll
 C:\Users\wendy\source\repos\UF678-M3\UF678-M3\obj\Debug\netcoreapp3.1\UF678-M3.pdb
 C:\Users\wendy\source\repos\UF678-M3\UF678-M3\obj\Debug\netcoreapp3.1\UF678-M3.genruntimeconfig.cache
+C:\Users\wendy\Documents\GitHub\UD6\UF678-M3\UF678-M3\bin\Debug\netcoreapp3.1\UF678-M3.exe
+C:\Users\wendy\Documents\GitHub\UD6\UF678-M3\UF678-M3\bin\Debug\netcoreapp3.1\UF678-M3.deps.json
+C:\Users\wendy\Documents\GitHub\UD6\UF678-M3\UF678-M3\bin\Debug\netcoreapp3.1\UF678-M3.runtimeconfig.json
+C:\Users\wendy\Documents\GitHub\UD6\UF678-M3\UF678-M3\bin\Debug\netcoreapp3.1\UF678-M3.runtimeconfig.dev.json
+C:\Users\wendy\Documents\GitHub\UD6\UF678-M3\UF678-M3\bin\Debug\netcoreapp3.1\UF678-M3.dll
+C:\Users\wendy\Documents\GitHub\UD6\UF678-M3\UF678-M3\bin\Debug\netcoreapp3.1\UF678-M3.pdb
+C:\Users\wendy\Documents\GitHub\UD6\UF678-M3\UF678-M3\obj\Debug\netcoreapp3.1\UF678-M3.csprojAssemblyReference.cache
+C:\Users\wendy\Documents\GitHub\UD6\UF678-M3\UF678-M3\obj\Debug\netcoreapp3.1\UF678-M3.AssemblyInfoInputs.cache
+C:\Users\wendy\Documents\GitHub\UD6\UF678-M3\UF678-M3\obj\Debug\netcoreapp3.1\UF678-M3.AssemblyInfo.cs
+C:\Users\wendy\Documents\GitHub\UD6\UF678-M3\UF678-M3\obj\Debug\netcoreapp3.1\UF678-M3.csproj.CoreCompileInputs.cache
+C:\Users\wendy\Documents\GitHub\UD6\UF678-M3\UF678-M3\obj\Debug\netcoreapp3.1\UF678-M3.dll
+C:\Users\wendy\Documents\GitHub\UD6\UF678-M3\UF678-M3\obj\Debug\netcoreapp3.1\UF678-M3.pdb
+C:\Users\wendy\Documents\GitHub\UD6\UF678-M3\UF678-M3\obj\Debug\netcoreapp3.1\UF678-M3.genruntimeconfig.cache

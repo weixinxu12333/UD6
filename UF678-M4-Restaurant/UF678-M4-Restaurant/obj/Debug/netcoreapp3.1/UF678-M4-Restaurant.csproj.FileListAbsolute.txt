@@ -1,0 +1,13 @@
+C:\Users\wendy\source\repos\UF678-M4-Restaurant\UF678-M4-Restaurant\bin\Debug\netcoreapp3.1\UF678-M4-Restaurant.exe
+C:\Users\wendy\source\repos\UF678-M4-Restaurant\UF678-M4-Restaurant\bin\Debug\netcoreapp3.1\UF678-M4-Restaurant.deps.json
+C:\Users\wendy\source\repos\UF678-M4-Restaurant\UF678-M4-Restaurant\bin\Debug\netcoreapp3.1\UF678-M4-Restaurant.runtimeconfig.json
+C:\Users\wendy\source\repos\UF678-M4-Restaurant\UF678-M4-Restaurant\bin\Debug\netcoreapp3.1\UF678-M4-Restaurant.runtimeconfig.dev.json
+C:\Users\wendy\source\repos\UF678-M4-Restaurant\UF678-M4-Restaurant\bin\Debug\netcoreapp3.1\UF678-M4-Restaurant.dll
+C:\Users\wendy\source\repos\UF678-M4-Restaurant\UF678-M4-Restaurant\bin\Debug\netcoreapp3.1\UF678-M4-Restaurant.pdb
+C:\Users\wendy\source\repos\UF678-M4-Restaurant\UF678-M4-Restaurant\obj\Debug\netcoreapp3.1\UF678-M4-Restaurant.csprojAssemblyReference.cache
+C:\Users\wendy\source\repos\UF678-M4-Restaurant\UF678-M4-Restaurant\obj\Debug\netcoreapp3.1\UF678-M4-Restaurant.AssemblyInfoInputs.cache
+C:\Users\wendy\source\repos\UF678-M4-Restaurant\UF678-M4-Restaurant\obj\Debug\netcoreapp3.1\UF678-M4-Restaurant.AssemblyInfo.cs
+C:\Users\wendy\source\repos\UF678-M4-Restaurant\UF678-M4-Restaurant\obj\Debug\netcoreapp3.1\UF678-M4-Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\wendy\source\repos\UF678-M4-Restaurant\UF678-M4-Restaurant\obj\Debug\netcoreapp3.1\UF678-M4-Restaurant.dll
+C:\Users\wendy\source\repos\UF678-M4-Restaurant\UF678-M4-Restaurant\obj\Debug\netcoreapp3.1\UF678-M4-Restaurant.pdb
+C:\Users\wendy\source\repos\UF678-M4-Restaurant\UF678-M4-Restaurant\obj\Debug\netcoreapp3.1\UF678-M4-Restaurant.genruntimeconfig.cache

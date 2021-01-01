@@ -31,10 +31,38 @@ namespace UF678_M3
 
             Console.WriteLine("----------Fase 3----------");
             string[] ArrayCiutatsModificades = new string[arrayCiutats.Length];
-            ArrayCiutatsModificades = ModificarLleta(arrayCiutats, 'a');
+            ArrayCiutatsModificades = ModificarLletra(arrayCiutats, 'a');
             Array.Sort(ArrayCiutatsModificades);
             ImprimirArray(ArrayCiutatsModificades);
 
+            Console.WriteLine("----------Fase 4----------");
+            char[] barcelona = new char[c1.Length];
+            char[] madrid = new char[c2.Length];
+            char[] valencia = new char[c3.Length];
+            char[] malaga = new char[c4.Length];
+            char[] cadiz = new char[c5.Length];
+            char[] santander = new char[c6.Length];
+
+            barcelona = OmplirArrayPerNomCiutat(c1);
+            madrid = OmplirArrayPerNomCiutat(c2);
+            valencia = OmplirArrayPerNomCiutat(c3);
+            malaga = OmplirArrayPerNomCiutat(c4);
+            cadiz = OmplirArrayPerNomCiutat(c5);
+            santander = OmplirArrayPerNomCiutat(c6);
+
+            Array.Reverse(barcelona);
+            Array.Reverse(madrid);
+            Array.Reverse(valencia);
+            Array.Reverse(malaga);
+            Array.Reverse(cadiz);
+            Array.Reverse(santander);
+
+            ImprimirArray(barcelona);
+            ImprimirArray(madrid);
+            ImprimirArray(valencia);
+            ImprimirArray(malaga);
+            ImprimirArray(cadiz);
+            ImprimirArray(santander);
 
         }
 
@@ -58,7 +86,16 @@ namespace UF678_M3
             }
         }
 
-        public static string[] ModificarLleta(string[] arr, char lletra)
+        public static void ImprimirArray(char[] array)
+        {
+            foreach (var i in array)
+            {
+                Console.Write(i);
+            }
+            Console.WriteLine();
+        }
+
+        public static string[] ModificarLletra(string[] arr, char lletra)
         {
             string[] ArrayCiutatsModificades = new string[6];
             string ciutat = "";
@@ -85,7 +122,15 @@ namespace UF678_M3
 
             return ArrayCiutatsModificades;
         }
+
+        public static char[] OmplirArrayPerNomCiutat(string nom)
+        {
+            char[] array = new char[nom.Length];
+            for (int i = 0; i < nom.Length; i++)
+                array[i] = nom[i];
+            return array;
+        }
+
+
     }
-
-
 }
